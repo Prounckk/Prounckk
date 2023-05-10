@@ -4,8 +4,9 @@
 
 ##### BIO
 
-- 🏢 I'm currently working at **Contobox**
-- ⚙️ I use daily: `.go`, `.yml`, `.env`, `.sol`
-- 🌱 Learning about **Serverless**, **Data Structures and Algo** and **Web3**
+- 📚 Lifelong learner
+- ⚙️ I use daily: `.go`, `.yml`, `.env`, `.py`, `.js`
+- 🌱 Interesting in **Serverless**, **Backend**, **Cloud Computing**, **Web2/Web3**
+- ⌨️ Happy to contribute to any open-source codebases, ping me!
 - 📫 Reach me: [twitter.com/prounckk](https://twitter.com/prounckk) or [eremeev.ca](https://eremeev.ca)
 - ⚡️ Fun fact: I used to be an MD 
